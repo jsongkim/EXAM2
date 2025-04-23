@@ -1,0 +1,443 @@
+COURSES_START
+37215|CIMN150|Intro to Networking|TTh|12:00–15:50|Online|28
+30658|CS1B|Introduction to Computer Science II|TTh|08:00–11:50|Online|29
+42534|CS1B|Introduction to Computer Science II|TTh|14:00–16:50|ATAS 236|34
+32789|CIMS120|Database Fundamentals|MWF|14:00–15:50|VIL 7|42
+22415|CIMS150|Introduction to Information Systems|TTh|09:00–10:50|ATAS 236|25
+39135|CS1A|Intro to Computer Science|MWF|11:00–14:50|Online|45
+86326|CS1B|Introduction to Computer Science II|TTh|09:00–08:50|ATAS 236|31
+26880|CIM161|Linux+|MWF|13:00–09:50|ATAS 236|39
+32018|CS1A|Intro to Computer Science|TTh|14:00–15:50|ATAS 236|37
+32650|CIMN180|Network Security|TTh|11:00–10:50|Online|33
+29481|CIM161|Linux+|MWF|11:00–12:50|Live Stream|38
+72787|CIMN130|UNIX and Linux|MWF|09:00–12:50|Live Stream|29
+36143|CIMN180|Network Security|MWF|16:00–08:50|Live Stream|36
+81371|CIM161|Linux+|TTh|13:00–17:50|VIL 7|35
+45446|CIMN180|Network Security|MWF|08:00–13:50|VIL 7|32
+46822|CS1A|Intro to Computer Science|MWF|15:00–16:50|Online|43
+30922|CIMS150|Introduction to Information Systems|MWF|11:00–11:50|Online|42
+38758|CS1A|Intro to Computer Science|TTh|13:00–10:50|ATAS 220|32
+51681|CIMS200|Enterprise Systems|TTh|08:00–13:50|VIL 7|43
+83807|CS1D|Data Structures|MWF|15:00–16:50|Online|30
+14975|CIM161|Linux+|MWF|08:00–11:50|VIL 7|32
+79002|CS1A|Intro to Computer Science|TTh|08:00–13:50|VIL 7|31
+54663|CS1D|Data Structures|MWF|13:00–08:50|ATAS 236|29
+28566|CIMS200|Enterprise Systems|MWF|16:00–13:50|ATAS 236|36
+86810|CIMN180|Network Security|MWF|13:00–12:50|Online|29
+67261|CS1D|Data Structures|TTh|13:00–10:50|VIL 7|44
+39260|CIMN150|Intro to Networking|MWF|14:00–12:50|Online|29
+10235|CS1D|Data Structures|TTh|08:00–10:50|VIL 7|35
+38953|CIMS200|Enterprise Systems|MWF|15:00–10:50|Online|27
+55457|CIMS150|Introduction to Information Systems|TTh|10:00–09:50|Online|39
+COURSES_END
+PROFESSORS_START
+P1001|Shannon|Cox|M|66|892 Pierce Cape Apt. 592, Irvine, CA|1965-04-28|CS|PhD|72787
+P1002|Misty|White|F|74|4474 David Curve, Mission Viejo, CA|1968-02-04|CIMN|MS|36143
+P1003|Adam|Cannon|F|73|7780 Young Radial, San Clemente, CA|1986-08-30|CS|MBA|
+38953,36143
+P1004|Shawn|Ramos|F|70|84983 Jack Centers, San Clemente, CA|1978-01-15|CS|MBA|
+14975,86810,79002
+P1005|Benjamin|Nash|M|64|1016 Evan Haven Apt. 795, San Clemente, CA|1956-09-23|CS|
+MS|37215,29481
+P1006|Christopher|Evans|F|63|1681 Ruiz Crossing Suite 586, Mission Viejo, CA|1989-
+12-29|CIMS|MS|39135,28566
+P1007|Jason|Clark|M|70|98179 Simmons Vista, Mission Viejo, CA|1975-10-30|CIMS|PhD|
+38953,46822,54663
+P1008|Jordan|Andrews|M|68|99787 Morton Ridge Apt. 430, Chula Vista, CA|1962-05-03|
+CS|PhD|39135,30658
+P1009|Andrew|Garrett|M|67|396 Williams Keys, Irvine, CA|1968-09-27|CS|MBA|
+38758,28566,55457
+P1010|Alex|Harris|Nonbinary|70|1448 Wang Crescent Suite 569, Laguna Hills, CA|1956-
+04-09|CIMN|MBA|26880,32789
+PROFESSORS_END
+STUDENTS_START
+S1001|Marilyn|Lee|M|72|770 Timothy Road Suite 857, San Diego, CA|2001-05-02|3.9|Sr|
+30658
+S1002|Sarah|Brown|F|60|588 Jared Spur Suite 512, San Clemente, CA|1999-01-23|2.72|
+Jr|14975,83807,46822
+S1003|Mary|Morgan|M|63|829 Lopez Crescent Suite 504, Mission Viejo, CA|2001-05-01|
+3.02|So|32650,42534,46822
+S1004|Christopher|Wiley|M|69|4384 Daniel Tunnel Apt. 317, Oceanside, CA|2002-11-25|
+3.51|Sr|38953,79002
+S1005|Angel|Webb|F|62|57845 Kayla Courts, Chula Vista, CA|2003-01-27|3.89|Sr|72787
+S1006|Erica|Anderson|F|71|6810 Randolph Spur, Irvine, CA|2004-05-26|3.64|Fr|
+45446,32018
+S1007|Monica|Cook|M|68|84094 Manuel Fields, San Diego, CA|1999-03-02|2.65|So|
+79002,32789,42534
+S1008|Joshua|Flores|Nonbinary|71|142 Joshua Bridge Apt. 385, Oceanside, CA|2003-08-
+21|3.88|Sr|26880,38758,30658
+S1009|Lucas|Thomas|F|76|321 Austin Junction Suite 020, San Clemente, CA|2002-04-20|
+3.87|Sr|38953,26880,46822
+S1010|Rebecca|Williams|F|62|16629 Jensen Inlet Suite 381, San Clemente, CA|2007-02-
+24|2.58|So|86810
+S1011|Kathy|Bradley|F|65|717 Cohen Station, Irvine, CA|2002-03-17|3.04|So|30658
+S1012|Thomas|Meza|F|62|456 Holly Shores, Chula Vista, CA|1999-11-29|3.61|So|
+22415,39260,83807
+S1013|Kristina|Khan|F|70|0171 Mendoza Vista Apt. 459, Chula Vista, CA|2004-01-25|
+2.67|Fr|38758,36143
+S1014|David|Garcia|Nonbinary|70|8148 Morales Loop, Oceanside, CA|1998-05-08|3.2|Sr|
+67261
+S1015|Christine|Kelley|Nonbinary|78|1539 Mueller Mews Suite 832, San Diego, CA|
+2005-07-25|3.57|Fr|22415,51681
+S1016|Elizabeth|Stevenson|Nonbinary|78|99758 Lynn Fall Suite 619, Oceanside, CA|
+1996-02-21|2.75|Fr|86810,32789,67261
+S1017|Gina|Carlson|F|77|7013 Paige Throughway Apt. 227, Laguna Hills, CA|2003-05-
+01|3.55|Jr|14975,46822
+S1018|Kelly|Gilbert|Nonbinary|75|35494 Robbins Key Apt. 909, Mission Viejo, CA|
+2002-12-22|2.94|Jr|22415,83807
+S1019|Richard|Anderson|Nonbinary|72|58008 Rodriguez Haven Apt. 369, Mission Viejo,
+CA|2000-12-30|3.51|Jr|26880,30658,28566
+S1020|Colleen|Joseph|F|68|6832 Taylor Point Suite 562, Laguna Hills, CA|1999-03-14|
+2.55|Jr|32650,32018
+S1021|Whitney|Santiago|F|63|10276 Christopher Row, Oceanside, CA|2001-05-14|3.08|
+So|28566,45446
+S1022|Michelle|English|F|68|278 Arnold Mission Suite 532, Chula Vista, CA|2001-07-
+08|3.56|Fr|45446
+S1023|Cassandra|Lane|M|73|846 Johnson Camp, Chula Vista, CA|2003-12-16|3.74|Jr|
+30922
+S1024|Timothy|Richardson|M|62|128 Marshall Common Apt. 371, Laguna Hills, CA|2005-
+12-05|3.79|Sr|86810
+S1025|Cynthia|Yates|Nonbinary|78|058 Taylor Passage Suite 956, Mission Viejo, CA|
+2000-04-17|2.94|So|39260
+S1026|Susan|Yates|M|67|09494 Crystal Prairie Apt. 904, Mission Viejo, CA|2006-11-
+01|3.66|Fr|54663,86326
+S1027|Claudia|Mitchell|F|71|81442 Hill Glens, Oceanside, CA|1994-07-14|3.68|Sr|
+55457,32789,79002
+S1028|Judith|Munoz|M|67|752 Patton Freeway, Laguna Hills, CA|2002-07-17|3.75|Sr|
+10235
+S1029|Henry|Rose|F|78|1292 Mullins Loop, San Diego, CA|2000-10-22|3.39|Jr|39260
+S1030|John|Alexander|F|62|95041 Gary Locks, Laguna Hills, CA|2002-05-24|2.57|Sr|
+39135
+S1031|Kevin|Reese|Nonbinary|66|6742 Smith Union, Oceanside, CA|2001-12-04|3.06|So|
+86326,32018,14975
+S1032|Patrick|Stewart|F|76|85694 Nelson Unions, Mission Viejo, CA|1995-12-18|2.52|
+Sr|14975
+S1033|Jonathan|Silva|M|60|393 Byrd Falls Suite 800, Irvine, CA|1995-06-13|3.14|Jr|
+54663,14975,32018
+S1034|Alexander|Davis|F|72|753 King Bypass, Oceanside, CA|1994-09-11|3.39|Sr|
+86326,45446
+S1035|Christine|Brown|F|76|111 Nicholas Track, Oceanside, CA|2005-04-24|3.51|Fr|
+30922
+S1036|Ashlee|Coffey|Nonbinary|71|244 Guerrero Club, San Diego, CA|2005-02-27|3.22|
+Jr|32789,46822,42534
+S1037|Shawn|Carney|F|68|542 Joshua Circle Suite 650, Chula Vista, CA|1998-09-07|
+3.33|Jr|14975,54663
+S1038|Stephanie|Baker|Nonbinary|69|73962 Rodriguez Plains Suite 391, Irvine, CA|
+2001-10-20|2.88|So|67261
+S1039|Jennifer|Garcia|Nonbinary|72|94707 Denise Alley, Chula Vista, CA|1994-12-08|
+3.31|So|37215,14975,46822
+S1040|Elizabeth|Adams|F|68|9087 Graham Vista Apt. 830, San Clemente, CA|2000-10-30|
+3.53|Sr|30658,51681,54663
+S1041|Stephanie|Meyers|Nonbinary|66|98554 Brown Rue Apt. 585, Laguna Hills, CA|
+1995-08-29|3.06|Sr|72787,30922,32650
+S1042|Maureen|Hodges|M|77|328 Tammy Shore Apt. 461, Irvine, CA|2005-01-07|3.25|Fr|
+22415,28566
+S1043|Haley|Tucker|F|77|320 Anthony Ramp Apt. 761, Oceanside, CA|2003-06-27|2.96|
+Jr|42534,26880,72787
+S1044|Dawn|Porter|M|69|05050 Wilson Valley Suite 829, San Clemente, CA|1998-04-03|
+3.34|Jr|51681,32650
+S1045|Sandy|Johnson|F|63|0790 Jacqueline Curve, San Clemente, CA|1994-07-15|2.63|
+Fr|38953,86326
+S1046|Gerald|Williams|Nonbinary|63|79291 Danny Ranch Apt. 136, Oceanside, CA|2000-
+01-12|3.47|Jr|30658,10235
+S1047|Lisa|Hendrix|M|64|1982 Copeland Underpass Apt. 092, Irvine, CA|1999-12-31|
+3.37|Sr|38953,55457,45446
+S1048|Bryan|Hill|M|70|58273 Dennis Turnpike Suite 207, Oceanside, CA|1995-08-31|
+2.96|Fr|29481,14975
+S1049|Adam|White|M|70|946 Schwartz Ford, Chula Vista, CA|1996-09-22|2.64|Fr|
+32018,86326
+S1050|Danielle|Mills|M|78|29092 Salazar Corners Suite 560, Oceanside, CA|2003-10-
+12|2.9|Sr|22415
+S1051|Joe|Wilson|Nonbinary|73|588 Steven Road, Chula Vista, CA|2005-07-04|3.59|Sr|
+46822,36143
+S1052|Jared|Brown|M|61|77220 Deanna Haven, San Diego, CA|1997-11-09|3.01|Jr|38953
+S1053|Ryan|Cook|F|76|10822 Todd Crescent Apt. 379, Irvine, CA|2004-02-26|2.54|Fr|
+28566,26880,54663
+S1054|Mark|Gonzalez|F|69|15313 Kane Lane Apt. 179, Irvine, CA|2002-07-14|2.76|Sr|
+51681,32650,39135
+S1055|Brian|Graham|M|61|726 Taylor Stravenue, Laguna Hills, CA|1997-08-05|3.24|Sr|
+30922,83807,29481
+S1056|Crystal|Cantrell|F|64|2090 Taylor Walk, Laguna Hills, CA|2002-03-18|3.75|Jr|
+39135
+S1057|Stephen|Jackson|F|60|49292 Christopher Walks Suite 397, Irvine, CA|2002-03-
+01|3.07|So|28566
+S1058|Joshua|Blair|M|78|56939 Robin Avenue, San Diego, CA|2001-05-25|2.93|Fr|
+54663,14975
+S1059|Tina|Williams|M|72|806 Mendoza Union Apt. 773, Chula Vista, CA|1995-09-15|
+3.15|Fr|30658,79002,32789
+S1060|Angela|Smith|Nonbinary|60|25431 Timothy Inlet Apt. 799, Mission Viejo, CA|
+1994-09-15|2.79|Sr|36143,32789
+S1061|Tiffany|Ford|Nonbinary|68|625 Padilla Alley, San Clemente, CA|2004-12-17|
+2.89|So|79002,14975,37215
+S1062|Chad|Barry|F|73|046 Wolfe Ridge Apt. 195, Chula Vista, CA|2006-10-22|2.75|Jr|
+83807,54663,22415
+S1063|Sarah|Robertson|F|63|16579 Michael Extensions Apt. 832, San Diego, CA|1999-
+12-28|2.8|Jr|67261
+S1064|John|Wilson|M|75|933 Gomez Grove Suite 401, Irvine, CA|2000-08-19|3.01|Jr|
+86326,72787,54663
+S1065|Michael|Tucker|F|69|8847 Marsh Square, Irvine, CA|1995-05-29|2.6|Sr|54663
+S1066|Jacob|Henson|F|70|62411 Joshua Square, Irvine, CA|1996-10-22|2.5|Fr|
+42534,55457,32789
+S1067|Tyler|Golden|Nonbinary|75|6827 Fisher Street, Irvine, CA|2005-04-04|2.73|Fr|
+28566,32789,38953
+S1068|Andrew|Lopez|F|67|85695 Tucker Shores, San Clemente, CA|2006-02-23|3.25|Jr|
+30658,32789
+S1069|Alyssa|Kelley|M|61|9242 Perez Landing Suite 025, Oceanside, CA|1999-02-17|
+3.24|Jr|29481,81371,28566
+S1070|Stephen|Jackson|M|63|842 Mary Square, Oceanside, CA|2005-08-17|2.61|Fr|79002
+S1071|Laura|Martin|Nonbinary|65|59274 Lopez Points, Laguna Hills, CA|2006-04-27|
+3.41|Sr|32018,38953,28566
+S1072|Austin|Stewart|M|71|57828 Martinez Burg Suite 727, Oceanside, CA|1999-09-27|
+3.37|So|36143
+S1073|Eric|Cordova|F|74|474 Lauren Stream Suite 517, Laguna Hills, CA|1994-12-22|
+3.48|Sr|14975,38953
+S1074|Donald|Pierce|M|63|69375 Mark Rest Apt. 983, Irvine, CA|1999-01-07|2.65|So|
+81371
+S1075|James|Miller|Nonbinary|75|186 Tracy Rapids Apt. 562, Oceanside, CA|2006-06-
+21|3.95|Sr|83807
+S1076|Melissa|Wood|F|71|45547 Jason Mills Suite 742, San Diego, CA|2006-09-04|2.57|
+So|55457,46822
+S1077|Tara|Coleman|M|73|99123 Wells Ways Suite 196, San Clemente, CA|1995-10-18|
+2.61|Fr|14975,29481
+S1078|Adam|Fowler|M|76|2879 James Village Suite 487, Oceanside, CA|1995-01-04|3.97|
+So|10235,29481,30922
+S1079|Mackenzie|Turner|Nonbinary|63|8730 Eric Hills Suite 146, San Clemente, CA|
+1997-05-05|3.13|Sr|79002,14975
+S1080|Travis|Watts|F|64|14719 Perkins Port, Oceanside, CA|2001-09-16|3.92|Fr|14975
+S1081|Miranda|Burton|M|76|158 Megan Estates Apt. 257, Oceanside, CA|2006-01-31|3.7|
+Sr|42534
+S1082|Derek|Martin|F|70|6504 Moreno Club Apt. 219, Irvine, CA|2007-02-04|3.34|Jr|
+30922
+S1083|Gary|Morris|M|77|445 Amanda Knoll Apt. 028, Chula Vista, CA|1999-01-29|3.46|
+Sr|42534
+S1084|Nathan|Washington|F|74|13283 Laura Points Apt. 671, Oceanside, CA|1996-04-10|
+3.96|Sr|10235
+S1085|Lori|Mclean|F|74|4527 Jackson Hollow Apt. 132, Laguna Hills, CA|2006-02-06|
+2.8|Sr|14975,37215,32789
+S1086|Douglas|Perez|F|73|21611 Kim Throughway, Mission Viejo, CA|2001-08-17|3.92|
+Fr|67261
+S1087|Brad|Rodriguez|Nonbinary|69|1401 Contreras Throughway, San Diego, CA|1995-12-
+07|3.93|So|79002,45446,29481
+S1088|Kimberly|Mora|F|61|325 Christopher Vista, Oceanside, CA|2006-12-26|3.07|Sr|
+38758,86810
+S1089|Shelly|Rush|Nonbinary|75|2893 Cory Prairie Apt. 833, Chula Vista, CA|1999-02-
+01|3.43|Sr|32789
+S1090|George|Webster|Nonbinary|67|138 Richardson Radial, Mission Viejo, CA|1997-06-
+10|3.37|Jr|67261,32650,38758
+S1091|Scott|Rosario|Nonbinary|71|6638 Rick Trace, Chula Vista, CA|1999-08-21|2.77|
+Fr|46822
+S1092|David|Rodriguez|M|73|5480 Mark Crescent, Mission Viejo, CA|2000-11-01|3.15|
+So|32789
+S1093|Justin|Burke|F|66|738 Roberts Walk Suite 317, San Clemente, CA|2005-11-04|
+2.98|Jr|86810
+S1094|Michael|Smith|F|61|167 David Locks Suite 912, Chula Vista, CA|1995-05-24|4.0|
+Fr|45446,79002
+S1095|Michael|Gonzalez|Nonbinary|76|613 Hardy Harbors, Irvine, CA|2006-06-06|3.77|
+Fr|28566,30658,38758
+S1096|Katie|Wheeler|F|78|7967 Hernandez Motorway Apt. 147, San Clemente, CA|2002-
+10-01|3.8|So|51681,39135,28566
+S1097|Jerry|Dunlap|M|63|01702 Jacobs Islands, San Clemente, CA|1996-11-21|3.32|Sr|
+83807,55457
+S1098|Kevin|Hanson|Nonbinary|67|877 Kelly Parks, Laguna Hills, CA|2002-08-19|3.51|
+Jr|45446,67261
+S1099|William|Daniels|M|64|61675 Ramos Camp, San Clemente, CA|1994-11-07|3.81|Jr|
+38758,10235,29481
+S1100|Gregory|Hopkins|Nonbinary|77|276 Larry Loaf Suite 197, Chula Vista, CA|2005-
+07-09|3.05|So|83807
+S1101|Angela|Ryan|Nonbinary|69|8280 Baker Ramp Suite 954, Chula Vista, CA|1999-09-
+29|3.38|So|14975,39135,30922
+S1102|Bryan|Garza|Nonbinary|70|5905 Davis Key, Chula Vista, CA|2000-05-15|2.79|Jr|
+46822,51681,79002
+S1103|Robert|Brown|Nonbinary|73|34911 Wilson Extension, Chula Vista, CA|1994-08-17|
+3.86|Jr|67261,37215
+S1104|Amanda|Johnson|Nonbinary|63|864 Heather Radial Apt. 569, Mission Viejo, CA|
+2000-12-06|3.47|So|79002
+S1105|Marcus|Davis|M|66|35785 Christina Lakes Suite 371, Laguna Hills, CA|2003-05-
+29|2.91|Jr|32018,22415,39260
+S1106|Jason|Baker|M|69|639 Jennifer Prairie Apt. 954, Irvine, CA|1995-06-08|3.88|
+Fr|39260,45446
+S1107|Ashley|Schmidt|M|77|51484 Alvarado Island Apt. 664, Oceanside, CA|2004-12-03|
+3.07|Sr|30922
+S1108|Zachary|Powers|Nonbinary|69|82973 Adams Route, Chula Vista, CA|2003-05-10|
+2.62|Sr|81371,67261
+S1109|Lisa|Farrell|Nonbinary|70|083 Ford Garden Apt. 466, San Diego, CA|1999-09-18|
+2.63|Fr|32018,86326,83807
+S1110|Michelle|Pruitt|F|67|4424 Richard Crescent, Chula Vista, CA|1996-11-03|3.44|
+So|86326,32650,45446
+S1111|James|Sanchez|M|62|7866 James Groves Apt. 044, Irvine, CA|2005-06-30|2.94|Fr|
+30658,81371
+S1112|Andrea|Newman|F|77|700 Lee Hills, Laguna Hills, CA|1995-05-17|2.83|So|
+10235,32018,37215
+S1113|Rachel|Russell|F|74|162 Daniel Street Apt. 898, Chula Vista, CA|1998-07-29|
+2.89|Fr|55457
+S1114|Tyler|Davis|F|61|5963 Robinson Coves, Oceanside, CA|1997-04-09|3.27|Sr|
+38758,72787,42534
+S1115|Jason|Hill|Nonbinary|70|9078 Lyons Creek Suite 867, San Diego, CA|2005-11-27|
+3.06|So|42534,67261,30922
+S1116|John|Ramirez|M|73|7540 Mckenzie Shore, San Diego, CA|1995-03-22|3.87|Sr|72787
+S1117|Hannah|Mccormick|M|66|8645 Amanda Freeway, Chula Vista, CA|2001-10-25|3.34|
+Jr|32650,86326
+S1118|Paul|Browning|Nonbinary|76|4134 Michele Estates Suite 560, San Clemente, CA|
+1998-12-14|3.93|Fr|79002
+S1119|Michelle|Morrow|F|74|6561 Holly Parkways Apt. 569, Irvine, CA|2006-09-12|
+3.12|Fr|38953,29481,36143
+S1120|Lisa|Rojas|M|72|002 Gibbs Dale Apt. 634, Laguna Hills, CA|1999-08-18|3.88|Jr|
+55457
+S1121|Barbara|Rodriguez|Nonbinary|71|296 Hayes Well, San Diego, CA|2006-10-19|3.8|
+Sr|30658,32650
+S1122|Dennis|Thompson|Nonbinary|66|3165 Phillip Lane Apt. 008, Laguna Hills, CA|
+2005-04-19|3.81|Fr|39135
+S1123|Cheryl|Perez|Nonbinary|77|3420 Williamson Rapid, Mission Viejo, CA|1998-09-
+19|2.66|So|14975,86810,86326
+S1124|Edward|Rubio|Nonbinary|73|108 Ayala Motorway, Oceanside, CA|2005-10-01|2.76|
+So|39260,54663,38953
+S1125|Troy|Walker|Nonbinary|73|44762 Gates Rapid, Chula Vista, CA|1997-12-16|2.68|
+So|45446
+S1126|Wanda|Campbell|Nonbinary|70|2620 Cherry Freeway, Mission Viejo, CA|2004-10-
+19|2.72|Fr|39135
+S1127|Shannon|Wright|F|77|07256 Jennifer Station Suite 941, Mission Viejo, CA|1995-
+11-30|3.97|So|81371,36143
+S1128|Angela|Williams|F|72|5990 Jon River, San Clemente, CA|2000-10-09|3.3|Fr|
+79002,32789
+S1129|Kevin|Foster|Nonbinary|60|80924 William Junction Suite 215, Chula Vista, CA|
+2006-05-17|2.66|Fr|10235,42534,72787
+S1130|Alyssa|Thomas|Nonbinary|63|0274 Howe Haven, Laguna Hills, CA|1998-10-08|3.27|
+Fr|86810,55457
+S1131|Chloe|Juarez|F|72|562 Doyle Overpass Apt. 870, San Clemente, CA|1997-07-03|
+2.57|Sr|38758
+S1132|Edgar|Hall|M|64|4276 Wanda Park, Chula Vista, CA|1994-12-26|3.5|Jr|
+22415,32650,79002
+S1133|Scott|Zhang|Nonbinary|71|7121 Davis Ways Suite 228, Mission Viejo, CA|1998-
+12-07|3.91|So|30658
+S1134|Anna|Alvarado|M|78|089 Robert Club, San Diego, CA|1998-06-24|3.5|Fr|
+86326,28566
+S1135|Kayla|Rhodes|Nonbinary|71|41659 Mary Drives Apt. 177, Irvine, CA|2002-01-06|
+3.55|So|39135
+S1136|Courtney|Adams|M|68|0975 Jason Causeway, Irvine, CA|2005-03-29|2.79|So|
+67261,51681,10235
+S1137|Justin|Yates|M|77|961 Scott Garden, San Clemente, CA|2001-01-28|3.9|Fr|
+79002,42534
+S1138|Christopher|Phelps|F|63|6421 Henry Meadows, Irvine, CA|2006-10-23|3.98|Sr|
+72787,22415
+S1139|Lindsay|Collins|Nonbinary|67|1583 Griffin Loaf, Mission Viejo, CA|2002-05-25|
+3.22|Fr|29481
+S1140|Joseph|Burke|F|74|5926 Davis Passage, Laguna Hills, CA|2000-02-08|3.28|So|
+51681,72787,67261
+S1141|Teresa|Rhodes|F|73|8814 Kim Unions, Irvine, CA|2002-06-01|2.51|Jr|67261
+S1142|Kevin|Joyce|M|73|86490 Samantha Passage Apt. 866, Laguna Hills, CA|1995-11-
+25|3.42|So|28566,29481,38953
+S1143|Steven|Cortez|F|74|4918 Daniel Shore Suite 226, San Clemente, CA|1995-01-23|
+3.41|Jr|38758,32789
+S1144|Christopher|Mcdowell|M|62|9779 Peterson Well Apt. 321, Oceanside, CA|2006-12-
+31|3.21|So|86326,32018,28566
+S1145|Tina|Green|Nonbinary|62|8006 Alexander Shoal, Chula Vista, CA|2002-05-29|
+2.69|Fr|14975,37215,39260
+S1146|Steve|Sullivan|Nonbinary|78|9956 Miller Dale Apt. 310, San Clemente, CA|2006-
+02-17|3.04|Fr|32018,38758,38953
+S1147|Tara|Trevino|Nonbinary|75|2368 Christopher Trail, Chula Vista, CA|2002-03-05|
+2.88|Jr|26880,38953
+S1148|Eddie|Henderson|Nonbinary|69|27770 Richards Flats, Irvine, CA|1999-04-23|
+3.68|Fr|72787,30922
+S1149|Ashley|Bass|M|67|0166 Mclaughlin Ranch, Oceanside, CA|2006-09-23|2.92|So|
+39135,51681
+S1150|Angela|Roberts|Nonbinary|64|7899 Hall Circle Apt. 695, Chula Vista, CA|2003-
+09-14|3.73|Jr|26880
+S1151|Bryan|Orozco|F|67|1795 Terry Brooks Apt. 437, Mission Viejo, CA|2000-02-21|
+3.17|Jr|30658
+S1152|Samuel|Romero|Nonbinary|66|724 Moyer Village Suite 729, San Diego, CA|1997-
+10-25|3.42|Sr|55457,45446
+S1153|Justin|Curry|M|61|23297 Laura Park Suite 338, Chula Vista, CA|1995-02-03|
+3.32|Fr|30922,14975,39260
+S1154|Yvette|Howard|F|68|2280 Matthew Crescent Apt. 183, San Diego, CA|2002-07-26|
+3.89|So|14975,36143
+S1155|Jonathan|Peterson|F|78|84289 Jasmine Mill Suite 119, Chula Vista, CA|2004-08-
+30|2.69|Jr|55457,26880
+S1156|Kimberly|Meza|Nonbinary|72|121 Rhonda Estate, Laguna Hills, CA|2006-09-06|
+3.38|Sr|38953,83807
+S1157|Kelly|Alexander|M|76|125 Fuentes Crossing Apt. 760, Irvine, CA|1998-06-19|
+3.62|So|42534
+S1158|Mary|Wells|Nonbinary|68|214 Espinoza Mall Suite 328, Irvine, CA|2001-06-19|
+2.88|So|72787
+S1159|Kristin|Taylor|Nonbinary|63|6785 Scott Trail Apt. 811, Chula Vista, CA|2000-
+01-18|3.08|Sr|28566,32789
+S1160|Leroy|Holden|F|75|0602 Tiffany Station, San Clemente, CA|2005-07-11|3.03|So|
+39260,81371,37215
+S1161|Nancy|Kaufman|M|61|8455 Margaret Pines Apt. 673, Irvine, CA|2003-07-21|3.96|
+So|14975
+S1162|Claudia|Montgomery|Nonbinary|61|563 Miller Plain Suite 628, San Diego, CA|
+2003-06-29|2.87|Fr|32018
+S1163|Justin|Davis|M|76|520 Pamela Plains Suite 346, San Clemente, CA|2002-11-20|
+3.94|Fr|28566,79002,39260
+S1164|Daniel|Brown|F|62|8510 Shane Ports Apt. 753, Irvine, CA|2006-12-23|3.64|Sr|
+39135,26880
+S1165|Vanessa|Cunningham|F|64|4492 Stone Gateway, Oceanside, CA|1996-01-30|3.99|So|
+79002,30922,32018
+S1166|Mark|Aguilar|M|70|1266 Christopher Manors Apt. 737, San Clemente, CA|1995-08-
+15|2.67|So|36143,22415
+S1167|Mike|Fox|M|60|9767 Dennis Mall Apt. 282, Irvine, CA|2002-07-16|3.83|Sr|83807
+S1168|Jennifer|Anderson|M|65|377 Julie Points, San Clemente, CA|2000-07-28|2.59|Fr|
+46822
+S1169|Sandra|Wilson|Nonbinary|64|15940 David Inlet Suite 447, San Diego, CA|1994-
+10-07|3.88|Fr|14975,81371,30922
+S1170|Kylie|Thomas|F|71|44327 David Keys Apt. 067, Oceanside, CA|2004-01-15|2.61|
+Sr|67261
+S1171|Kyle|Chavez|F|72|7922 Gill Shores Suite 251, Laguna Hills, CA|2004-12-02|4.0|
+Fr|22415,32018
+S1172|Elizabeth|Ortiz|F|67|5807 Brewer Way, Oceanside, CA|1997-02-09|2.71|Jr|
+38953,38758,81371
+S1173|Jasmine|Armstrong|F|66|181 Stephanie Plains Apt. 983, Mission Viejo, CA|2007-
+01-22|2.51|Fr|37215,36143,14975
+S1174|Thomas|Prince|M|70|820 Buchanan Gardens, San Clemente, CA|2006-04-18|3.42|Fr|
+81371
+S1175|Mary|Riley|Nonbinary|78|956 Travis Brooks, Laguna Hills, CA|2000-01-28|3.16|
+Sr|72787,83807,32018
+S1176|Samuel|Perry|Nonbinary|72|4111 Justin Falls Suite 124, Oceanside, CA|2001-03-
+21|3.02|Sr|67261,38758,46822
+S1177|Erika|Brown|M|71|00461 Thomas Islands Suite 610, San Diego, CA|1997-09-26|
+3.92|Sr|32650,51681
+S1178|John|Harper|F|72|8861 Brown Mountain, Chula Vista, CA|2003-09-13|2.85|Fr|
+26880,45446,67261
+S1179|Richard|Washington|Nonbinary|65|304 John Point Apt. 496, Mission Viejo, CA|
+2001-11-17|3.04|Sr|67261,38758
+S1180|Christopher|Fields|Nonbinary|61|58238 Ali Point, Irvine, CA|2001-12-23|3.49|
+Fr|39260
+S1181|Bobby|Hess|M|75|200 Nelson Glen Suite 539, San Diego, CA|2002-12-22|3.61|Fr|
+32018
+S1182|Juan|Martin|M|71|1612 Johns Fords, Mission Viejo, CA|2004-09-04|2.59|Sr|
+83807,14975
+S1183|William|Pham|Nonbinary|69|474 Eileen Islands Suite 379, Chula Vista, CA|1999-
+11-17|2.64|So|46822,45446,37215
+S1184|Allen|Holt|M|76|700 Robert Square, Laguna Hills, CA|2006-04-04|2.99|Fr|
+30922,54663,26880
+S1185|Tracy|Long|Nonbinary|65|180 Chambers Knoll, Chula Vista, CA|2000-09-10|2.59|
+Jr|14975
+S1186|Maria|Howard|M|65|017 Mayer Mills, Mission Viejo, CA|1994-06-14|3.2|Sr|
+79002,36143
+S1187|Jeffrey|Smith|F|78|531 Stokes Forges Apt. 750, Irvine, CA|1999-01-25|3.82|Fr|
+54663,42534,55457
+S1188|Trevor|Padilla|M|77|36149 Jackson Fields, Laguna Hills, CA|2005-07-08|3.93|
+Jr|39260,32018
+S1189|Joanne|Chambers|M|66|92124 Nicole Stream, San Clemente, CA|1998-12-16|3.53|
+Fr|39135,81371
+S1190|James|Gregory|Nonbinary|63|870 Davidson Run Apt. 566, San Diego, CA|1998-12-
+14|2.68|Jr|32789,67261
+S1191|David|Holmes|Nonbinary|68|8030 Hull Place Suite 506, San Diego, CA|1997-08-
+08|3.97|Jr|45446,36143,51681
+S1192|Matthew|Beard|F|67|361 James Isle, Oceanside, CA|1999-07-31|3.36|Sr|
+45446,38953,51681
+S1193|Bryan|Garrett|M|75|6095 Wright Mountains, Mission Viejo, CA|1998-05-07|3.16|
+Fr|14975,67261
+S1194|Susan|Wall|M|67|319 Duran Road Suite 911, Oceanside, CA|1995-04-29|3.3|Sr|
+30922,38758
+S1195|Sabrina|Bennett|M|68|07049 Jones Springs, Irvine, CA|1995-03-29|3.23|Fr|
+79002,28566
+S1196|Anita|Phillips|F|62|1963 Shawn Mountain Suite 991, San Diego, CA|2000-01-26|
+2.95|Sr|72787,86326
+S1197|Debra|Lowe|Nonbinary|68|8593 Curtis Ranch, Irvine, CA|2006-06-05|2.98|Sr|
+86326,26880,28566
+S1198|Carlos|Clarke|M|68|284 Fisher Stream, Irvine, CA|2004-11-07|3.08|So|39260
+S1199|Sean|Sanchez|Nonbinary|71|24968 Collins Plains, Irvine, CA|1996-10-07|2.77|
+Fr|79002
+S1200|Dylan|Parker|Nonbinary|75|5089 Brian Parkways Apt. 653, San Diego, CA|1997-
+09-13|2.51|Fr|72787,83807
+STUDENTS_END
