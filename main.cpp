@@ -31,7 +31,8 @@ studentType* findStudent(const vector<studentType*>& students, const string& stu
 double safeStod(const string& str, double defaultValue = 0.0);
 int safeStoi(const string& str, int defaultValue = 0);
 
-int main() {
+int main() { 
+    char choice;
     vector<courseType*> courses;
     vector<professorType*> professors;
     vector<studentType*> students;
@@ -74,25 +75,50 @@ int main() {
             return *a < *b;
         });
 
-    // Print all data (now sorted)
-    printAllData(courses, professors, students);
+    do{
+        system("clear");
+        cout << " ==========================\n";
+        cout << "  Course Enrollment System \n";
+        cout << " ==========================\n";
+        cout << " <1> (Optional) Load data from file\n";
+        cout << " <2> Add people and courses manually\n";
+        cout << " <3> Print all students and their enrolled courses\n";
+        cout << " <4> Print all professors and their assigned courses\n";
+        cout << " <5> Generate Coures Enrollment Report\n";
+        cout << " <6> Generate Professor Course Load Report\n";
+        cout << " <7> Display all people and their associated coures (polymorphism demo)\n";
+        cout << " <8> Quit\n\n";
+        cout << " Choice (1-8):";
+        cin >> choice;
+        cout << "\n";
 
-    // Get and print top 10 students by GPA
-    vector<studentType*> topStudents = getTopStudents(students, 10);
-    cout << "\nTOP 10 STUDENTS BY GPA:\n";
-    cout << "-----------------------\n";
-    for (size_t i = 0; i < topStudents.size(); i++) {
-        cout << i + 1 << ". " << topStudents[i]->getFName() << " " << topStudents[i]->getLName() 
-             << " (GPA: " << topStudents[i]->getGPA() << ")\n";
-    }
+        if (choice != '1' && choice != '2' && choice != '3' && choice != '4' && choice != '5' && choice != '6' && choice != '7' && choice != '8'){
+                do{
+                        cout << "Please enter a valid choice (1-8):";
+                        cin >> choice;
+                        cout << "\n";
+                        cin.ignore();
+                } while (choice != '1' && choice != '2' && choice != '3' && choice != '4' && choice != '5' && choice != '6' && choice != '7' && choice != '8');
+        }
 
-    // Print census data
-    cout << "\nCENSUS DATA:\n";
-    cout << "------------\n";
-    cout << "Total courses: " << courses.size() << endl;
-    cout << "Total professors: " << professors.size() << endl;
-    cout << "Total students: " << students.size() << endl;
-    cout << "Total enrollment: " << courseType::getCensus() << endl;
+        switch (choice) {
+                case '1':
+                        break;
+                case '2':
+                        break;
+                case '3':
+                        break;
+                case '4':
+                        break;
+                case '5':
+                        break;
+                case '6':
+                        break;
+                case '7':
+                        break;
+        }
+
+        } while (choice != '8');
 
     // Clean up memory
     for (auto course : courses) delete course;
